@@ -1,0 +1,289 @@
+{
+  "list": {
+    "pagination": {
+      "count": 7,
+      "hasMoreItems": false,
+      "totalItems": 7,
+      "skipCount": 0,
+      "maxItems": 100
+    },
+    "entries": [
+      {
+        "entry": {
+          "targetGuid": "1ced1cfc-efc9-4623-a39f-5bae34e66f2c",
+          "target": {
+            "file": {
+              "name": "Partner Newsletter Jan2018.docx",
+              "createdAt": "2018-01-17T17:39:44.725+0000",
+              "modifiedAt": "2018-01-18T15:23:06.664+0000",
+              "createdByUser": {
+                "id": "jknowles",
+                "displayName": "John Knowles"
+              },
+              "modifiedByUser": {
+                "id": "jknowles",
+                "displayName": "John Knowles"
+              },
+              "versionLabel": "1.3",
+              "isFolder": false,
+              "isFile": true,
+              "guid": "1ced1cfc-efc9-4623-a39f-5bae34e66f2c",
+              "createdBy": "jknowles",
+              "modifiedBy": "jknowles",
+              "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "sizeInBytes": 227696,
+              "content": {
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "mimeTypeName": "Microsoft Word 2007",
+                "sizeInBytes": 227696,
+                "encoding": "UTF-8"
+              },
+              "parentId": "41ecb3a8-76cd-4772-ac3a-6f8dc54e36c7",
+              "id": "1ced1cfc-efc9-4623-a39f-5bae34e66f2c"
+            }
+          }
+        }
+      },
+      {
+        "entry": {
+          "targetGuid": "c6dd8612-d141-4463-b170-c029975b0444",
+          "target": {
+            "file": {
+              "name": "abson_develop_great_dashlets.pdf",
+              "createdAt": "2012-05-22T22:40:30.509+0000",
+              "modifiedAt": "2012-05-29T21:05:46.814+0000",
+              "createdByUser": {
+                "id": "jpotts",
+                "displayName": "jpotts"
+              },
+              "modifiedByUser": {
+                "id": "jpotts",
+                "displayName": "jpotts"
+              },
+              "isFolder": false,
+              "isFile": true,
+              "title": "Developing Great Dashlets",
+              "guid": "c6dd8612-d141-4463-b170-c029975b0444",
+              "description": "Developing Great Dashlets",
+              "createdBy": "jpotts",
+              "modifiedBy": "jpotts",
+              "mimeType": "application/pdf",
+              "sizeInBytes": 65296,
+              "content": {
+                "mimeType": "application/pdf",
+                "mimeTypeName": "Adobe PDF Document",
+                "sizeInBytes": 65296,
+                "encoding": "UTF-8"
+              },
+              "parentId": "a92ad859-5b90-45f4-a75c-caf53f9fa8a6",
+              "id": "c6dd8612-d141-4463-b170-c029975b0444"
+            }
+          }
+        }
+      },
+      {
+        "entry": {
+          "targetGuid": "b4825cad-e88b-453f-b7cc-b5b7b68b9798",
+          "target": {
+            "file": {
+              "name": "BP-7_CustomizingShareBestPractices_Abson.pptx",
+              "createdAt": "2011-11-09T11:22:47.037+0000",
+              "modifiedAt": "2011-11-09T11:22:47.037+0000",
+              "createdByUser": {
+                "id": "wabson",
+                "displayName": "Will Abson"
+              },
+              "modifiedByUser": {
+                "id": "wabson",
+                "displayName": "Will Abson"
+              },
+              "isFolder": false,
+              "isFile": true,
+              "title": "PowerPoint Presentation",
+              "guid": "b4825cad-e88b-453f-b7cc-b5b7b68b9798",
+              "description": "PowerPoint Presentation",
+              "createdBy": "wabson",
+              "modifiedBy": "wabson",
+              "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+              "sizeInBytes": 2470213,
+              "content": {
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "mimeTypeName": "Microsoft PowerPoint 2007 presentation",
+                "sizeInBytes": 2470213,
+                "encoding": "UTF-8"
+              },
+              "parentId": "e163a236-96b5-488f-9fca-3e9f71c4b749",
+              "id": "b4825cad-e88b-453f-b7cc-b5b7b68b9798"
+            }
+          }
+        }
+      },
+      {
+        "entry": {
+          "targetGuid": "d5a32a25-a01d-4927-a61a-e31ca63e1f9a",
+          "target": {
+            "file": {
+              "name": "Alfresco_Brand_Theme.thmx",
+              "createdAt": "2016-12-14T05:03:40.063+0000",
+              "modifiedAt": "2016-12-15T20:30:12.993+0000",
+              "createdByUser": {
+                "id": "ptschroeder",
+                "displayName": "PT Schroeder"
+              },
+              "modifiedByUser": {
+                "id": "ptschroeder",
+                "displayName": "PT Schroeder"
+              },
+              "versionLabel": "1.1",
+              "isFolder": false,
+              "isFile": true,
+              "title": "Alfresco PowerPoint Template",
+              "guid": "d5a32a25-a01d-4927-a61a-e31ca63e1f9a",
+              "description": "Alfresco PowerPoint Template",
+              "createdBy": "ptschroeder",
+              "modifiedBy": "ptschroeder",
+              "mimeType": "application/octet-stream",
+              "sizeInBytes": 6053286,
+              "content": {
+                "mimeType": "application/octet-stream",
+                "mimeTypeName": "Binary File (Octet Stream)",
+                "sizeInBytes": 6053286,
+                "encoding": "UTF-8"
+              },
+              "parentId": "80eb81d0-94e0-4834-bd2a-65304c3bb9bb",
+              "id": "d5a32a25-a01d-4927-a61a-e31ca63e1f9a"
+            }
+          }
+        }
+      },
+      {
+        "entry": {
+          "targetGuid": "d5a32a25-a01d-4927-a61a-e31ca63e1f9a",
+          "target": {
+            "site": {
+              "name": "Alfresco_Grand_Theme.thmx",
+              "createdAt": "2015-12-14T05:03:40.063+0000",
+              "modifiedAt": "2016-12-15T20:30:12.993+0000",
+              "createdByUser": {
+                "id": "ptschroeder",
+                "displayName": "PT Schroeder"
+              },
+              "modifiedByUser": {
+                "id": "ptschroeder",
+                "displayName": "PT Schroeder"
+              },
+              "versionLabel": "1.1",
+              "isFolder": false,
+              "isFile": true,
+              "title": "Alfresco PowerPoint Template",
+              "guid": "d5a32a25-a01d-4927-a61a-e31ca63e1f9a",
+              "description": "Alfresco PowerPoint Template",
+              "createdBy": "ptschroeder",
+              "modifiedBy": "ptschroeder",
+              "mimeType": "application/octet-stream",
+              "sizeInBytes": 6053286,
+              "content": {
+                "mimeType": "application/octet-stream",
+                "mimeTypeName": "Binary File (Octet Stream)",
+                "sizeInBytes": 6053286,
+                "encoding": "UTF-8"
+              },
+              "parentId": "80eb81d0-94e0-4834-bd2a-65304c3bb9bb",
+              "id": "d5a32a25-a01d-4927-a61a-e31ca63e1f9a"
+            }
+          }
+        }
+      },
+      {
+        "entry": {
+          "targetGuid": "165397f6-eaba-4869-b193-343322ad6105",
+          "target": {
+            "site": {
+              "name": "Lincoln_Ready_For_Action.jpg",
+              "createdAt": "2015-07-29T08:53:51.513+0000",
+              "modifiedAt": "2015-08-03T14:03:32.726+0000",
+              "createdByUser": {
+                "id": "ddraper",
+                "displayName": "ddraper"
+              },
+              "modifiedByUser": {
+                "id": "kholyszko",
+                "displayName": "Kimberly Holyszko"
+              },
+              "versionLabel": "1.0",
+              "isFolder": false,
+              "isFile": true,
+              "guid": "165397f6-eaba-4869-b193-343322ad6105",
+              "createdBy": "ddraper",
+              "modifiedBy": "kholyszko",
+              "mimeType": "image/jpeg",
+              "sizeInBytes": 5083609,
+              "content": {
+                "mimeType": "image/jpeg",
+                "mimeTypeName": "JPEG Image",
+                "sizeInBytes": 5083609,
+                "encoding": "UTF-8"
+              },
+              "parentId": "a814d76e-81bb-4764-8234-eba9b0859a21",
+              "id": "165397f6-eaba-4869-b193-343322ad6105"
+            }
+          }
+        }
+      },
+      {
+        "entry": {
+          "targetGuid": "9a995332-7df3-42dd-918a-5c40b7ed6230",
+          "target": {
+            "folder": {
+              "name": "Digital Logos",
+              "createdAt": "2016-09-21T16:19:35.502+0000",
+              "modifiedAt": "2016-12-09T18:56:47.963+0000",
+              "createdByUser": {
+                "id": "tcoleman",
+                "displayName": "tcoleman"
+              },
+              "modifiedByUser": {
+                "id": "tcoleman",
+                "displayName": "tcoleman"
+              },
+              "isFolder": true,
+              "isFile": false,
+              "guid": "9a995332-7df3-42dd-918a-5c40b7ed6230",
+              "createdBy": "tcoleman",
+              "modifiedBy": "tcoleman",
+              "parentId": "295a9fcb-4a05-4431-be74-09ae2c1fded7",
+              "id": "9a995332-7df3-42dd-918a-5c40b7ed6230"
+            }
+          }
+        }
+      },
+      {
+        "entry": {
+          "targetGuid": "9a995332-7df3-42dd-918a-5c40b7ed6230",
+          "target": {
+            "folder": {
+              "name": "Digital Kuods",
+              "createdAt": "2017-09-21T16:19:35.502+0000",
+              "modifiedAt": "2017-12-09T18:56:47.963+0000",
+              "createdByUser": {
+                "id": "tcoleman",
+                "displayName": "cc dod"
+              },
+              "modifiedByUser": {
+                "id": "tcoleman",
+                "displayName": "tcoleman"
+              },
+              "isFolder": true,
+              "isFile": false,
+              "guid": "9a995332-7df3-42dd-918a-5c40b7ed6230",
+              "createdBy": "tcoleman",
+              "modifiedBy": "tcoleman",
+              "parentId": "295a9fcb-4a05-4431-be74-09ae2c1fded7",
+              "id": "9a995332-7df3-42dd-918a-5c40b7ed6230"
+            }
+          }
+        }
+      }
+    ]
+  }
+}
